@@ -20,19 +20,28 @@ You can find all the files in the zip file
 · 3.7v battery (903090 is preferred, you can use any 3,7 battery)   
 · PH2.00 socket (This is for the extension, you can put it if you need it)   
 · PH2.00 cable (This is for the extension, you can put it if you need it)
+
+## Changelogs
+
+Version 1.2:
+Added pdf files if you want to do the pcb at home;
+Added the Battery+ and Battery- texts;
+Fixed some random texts;
+Still not tested.
+
 ## What does it look like?
 
 !ATTENTION!
 If you see that the BMI160 is different, is becouse we used a placeholder different than the BMI itself, it changes only the design
 
-<img width="595" alt="immagine progetto 1" src="https://user-images.githubusercontent.com/103177455/214148580-9da98c74-abb8-40f8-ac80-f3fb6d25d2b2.PNG">
-<img width="672" alt="immagine progetto 2" src="https://user-images.githubusercontent.com/103177455/214148589-8f457366-7d57-4de6-a08c-95978a415d62.PNG">
-<img width="529" alt="immagine progetto 3" src="https://user-images.githubusercontent.com/103177455/214148599-d1f7d050-0164-47ad-883f-1379af6d8425.PNG">
-<img width="323" alt="immagine progetto 4" src="https://user-images.githubusercontent.com/103177455/214148611-60cbf6a0-92c4-4cfa-a9b2-3732cdecfd97.PNG">
-<img width="519" alt="immagine progetto 5" src="https://user-images.githubusercontent.com/103177455/214148618-d944bc1c-c3e9-4923-9e8a-a0024bb5559c.PNG">
+<img width="542" alt="immagine progetto 1" src="https://user-images.githubusercontent.com/103177455/214171326-778424c3-216c-4157-b247-c4bf3578f903.PNG">
+<img width="259" alt="immagine progetto 5" src="https://user-images.githubusercontent.com/103177455/214171323-7768a637-8f02-4349-be47-4bd42eb71337.PNG">
+<img width="636" alt="immagine progetto 2" src="https://user-images.githubusercontent.com/103177455/214171328-df5def7a-2e5b-4c59-b33f-e9ab3a589e87.PNG">
+<img width="574" alt="immagine progetto 4" src="https://user-images.githubusercontent.com/103177455/214171321-880e1402-cec4-45dc-bf01-820d245e5c50.PNG">
+<img width="559" alt="immagine progetto 3" src="https://user-images.githubusercontent.com/103177455/214171317-f295c0af-2642-4bb8-9ba1-34ecc49dc592.PNG">
+
+
 This one is for printing, so that you can use just one file for the extension and the pcb, the holes are for separating
-
-
 
  
 # Anything else to notice?
@@ -40,7 +49,6 @@ As official, the resistors and diodes in the PCB are optional. If you don't need
 
 # Is there any 3d case for this?
 Not yet, i'm going to use a random plastic box
- 
  
 ## Project file description
 You can open the project file with [Fritzing]
