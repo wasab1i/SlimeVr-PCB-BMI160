@@ -53,8 +53,8 @@ Not yet, i'm going to use a random plastic box
 ## Project file description
 You can open the project file with [Fritzing]
 
-Big thanks for the help gived by https://github.com/tianrui233/SlimeVR-PCB-KitKat
+Big thanks for the help given by the project https://github.com/tianrui233/SlimeVR-PCB-KitKat
 
-And sorry for gramm errors ;)
+Sorry for gramm errors ;)
 
-Big Thanks to @pelide36, if it weren't for him, this project would never have existed
+And Big Thanks to @pelide36, if it weren't for him, this project would never have existed (Follow him on Instagram >_<)
