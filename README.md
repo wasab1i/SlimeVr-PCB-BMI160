@@ -48,3 +48,5 @@ You can open the project file with [Fritzing]
 Big thanks for the help gived by https://github.com/tianrui233/SlimeVR-PCB-KitKat
 
 And sorry for gramm errors ;)
+
+Big Thanks to @pelide36, if it weren't for him, this project would never have existed
