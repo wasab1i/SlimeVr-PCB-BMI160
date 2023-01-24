@@ -35,8 +35,11 @@ Still not tested.
 If you see that the BMI160 is different, is becouse we used a placeholder different than the BMI itself, it changes only the design
 
 The width is 91 and the height is 30
+
 <img width="542" alt="immagine progetto 1" src="https://user-images.githubusercontent.com/103177455/214171326-778424c3-216c-4157-b247-c4bf3578f903.PNG">
+
 the width is 20.8 and the height is 23.7
+
 <img width="259" alt="immagine progetto 5" src="https://user-images.githubusercontent.com/103177455/214171323-7768a637-8f02-4349-be47-4bd42eb71337.PNG">
 <img width="636" alt="immagine progetto 2" src="https://user-images.githubusercontent.com/103177455/214171328-df5def7a-2e5b-4c59-b33f-e9ab3a589e87.PNG">
 <img width="574" alt="immagine progetto 4" src="https://user-images.githubusercontent.com/103177455/214171321-880e1402-cec4-45dc-bf01-820d245e5c50.PNG">
