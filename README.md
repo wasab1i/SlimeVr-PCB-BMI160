@@ -1,5 +1,5 @@
 # SlimeVr-PCB-BMI160
-The project isn't tested! We are not responsable of any problems.
+The project is actually tested! The only thing that isn't good is that the tp4056 B+ and B- aren't aligned with the pcb, u just need to put some jumper wire in the soldering process, nothing to worry
 
 # what's special about it?
 This is just a PCB for the one who don't really want to waste time soldering a lot of cables.
